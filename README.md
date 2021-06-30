@@ -12,4 +12,7 @@
  # Site'ler.
  
   🌍 AlihanMedia ---> https://ofturkey0.github.io/alihanmedia
-     AlihanKarakus Blog ---> https://alihankarakusblog.blogspot.com/
+  
+  
+  
+   AlihanKarakus Blog ---> https://alihankarakusblog.blogspot.com/
