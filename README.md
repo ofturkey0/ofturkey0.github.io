@@ -3,7 +3,7 @@
 <h1 id="ofturkey">Ofturkey.</h1>
 
 <h2 id="i̇letişim">İletişim.</h2>
-<p>👉Twitter:ofturkey1👈</p>
+<a href ="https://twitter.com/Ofturkey1">👉Twitter👈</a>
 
 <h2 id="hakkımda">Hakkımda.</h2>
 
