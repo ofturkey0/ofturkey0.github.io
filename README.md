@@ -1,7 +1,7 @@
 # Ofturkey.
 
 
-# İletişim
+# İletişim.
  👉Twitter:ofturkey1👈
  
 # Hakkımda.
