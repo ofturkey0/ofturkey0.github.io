@@ -1,1 +1,8 @@
-# ofturkey0.github.io
+# Ofturkey
+ 👉Twitter:ofturkey1👈
+ 
+ 
+ 
+ 
+ 💼AlihanMedia💼
+ 
