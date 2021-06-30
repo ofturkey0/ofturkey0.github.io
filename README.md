@@ -11,6 +11,6 @@
 
 <h1 id="siteler">Site’ler.</h1>
 
-<p href="https://ofturkey0.github.io/alihanmedia">🌍 AlihanMedia</p>
+<a href="https://ofturkey0.github.io/alihanmedia">🌍 AlihanMedia</a>
 
-<p href="https://alihankarakusblog.blogspot.com/">AlihanKarakus Blog</p>
+<a href="https://alihankarakusblog.blogspot.com/">AlihanKarakus Blog</a>
