@@ -11,6 +11,14 @@
 
 <h1 id="siteler">Site’ler.</h1>
 
-<a href="https://ofturkey0.github.io/alihanmedia">🌍 AlihanMedia</a>
+<a href="https://ofturkey0.github.io/alihanmedia">AlihanMedia</a>
 
 <a href="https://alihankarakusblog.blogspot.com/">AlihanKarakus Blog</a>
+
+<a href="https://ofturkey0.github.io/chat/">Sohbet</a>
+
+<a href="https://ofturkey0.github.io/parolaolustur/">Parola Oluştur</a>
+
+<a href="https://ofturkey0.github.io/ofprisonbox/">OfPrisonBox</a>
+
+
