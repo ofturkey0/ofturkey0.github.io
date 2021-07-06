@@ -9,6 +9,12 @@
 
 <p>💼 Ben Alihan Karakus 2017 yılın’dan beri internet’e aktif olarak <br> web/mobile siteler,app’ler geliştiriyorum.</p>
 
+<h3>Ofturkey Nedir? </h3>
+<p>Ofturkey Nedir?
+ Ofturkey ingilizcedeki of yani sahiplik turkey yani türkiye olarak düşüne bilirsiniz lakin <br> 
+ Ofturkey hiçbir anlam taşımıyor Ofturkey benim (Alihan Karakuş) takma adı olup ingilizce deki <br>
+ anlamıyla hiçbir alakası yoktur.</p>
+
 <h2>Visual Studio Projeleri</h2>
 
 <a href="https://ofturkey0.github.io/vsbrowser/">VSBrowser</a>
