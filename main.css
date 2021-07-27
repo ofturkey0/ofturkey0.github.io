@@ -3,13 +3,13 @@
     font-family: 'Poppins', sans-serif;
 }
 
-h1{
+.baslık{
     font-size: 20px;
     font-weight: bold;
     color: black;
 }
 
-h2{
+.anayazı{
     font-size: 64px;
     font-weight: bold;
     color: black;
